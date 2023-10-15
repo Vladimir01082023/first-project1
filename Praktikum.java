@@ -1,1 +1,4 @@
-publis class Praktikum{}
+publis class Praktikum{
+public statis void main(String[] args) {
+}
+}
